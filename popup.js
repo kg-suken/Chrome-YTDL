@@ -274,4 +274,4 @@ window.addEventListener('error', function(e) {
 });
 
 // ダウンロード用のベースURLを変数化
-const DOWNLOAD_BASE_URL = 'https://reach-world.net/apps/YouAPhpITube/download.php';
+const DOWNLOAD_BASE_URL = 'https://API-URL/download.php';
