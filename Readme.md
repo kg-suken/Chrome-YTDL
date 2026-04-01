@@ -11,8 +11,7 @@ youtube.comで動画をひらき、拡張機能をクリックすることで小
 ![image](https://github.com/user-attachments/assets/5c480c3d-4ac7-4cc8-b109-0fb6c94482c9)
 
 
-# カスタムAPIを利用する
-reach-world.netのAPIが指定されていますが、カスタムAPIを利用したい場合は以下のリポジトリをセットアップし、popup.jsのDOWNLOAD_BASE_URL変数を変更してください。  
+以下のリポジトリをセットアップし、popup.jsのDOWNLOAD_BASE_URL変数を変更してください。  
 YT-DLP-API:https://github.com/kg-suken/YT-DLP-API
 
 
